@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/BrunoCarvalhoFeitosa/Airbnb-Clone">
-    <img src="/public/fav.png" alt="Logo" />
+    <img src="https://user-images.githubusercontent.com/46093815/135376369-a9f3b4d3-2391-417c-ad60-3fbf615df49b.png" alt="Logo" />
   </a>
 
   <p align="center">
